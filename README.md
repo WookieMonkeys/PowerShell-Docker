@@ -9,4 +9,6 @@ Running a PowerShell terminal inside of a docker container
 
 * `docker run -it microsoft/powershell`
 
-link: https://discoposse.com/2017/01/19/running-powershell-core-using-docker/
+links: 
+https://discoposse.com/2017/01/19/running-powershell-core-using-docker/
+https://www.pdq.com/powershell/
